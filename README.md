@@ -3,3 +3,5 @@
 Main Developer of Mono-Space by Team Spettro
 
 I also make mods and tools for Hedgehog Engine 1 games from time to time, and I do Italian translations as well.
+
+I also helped in [UnleashedRecomp](https://github.com/hedge-dev/UnleashedRecomp)!
